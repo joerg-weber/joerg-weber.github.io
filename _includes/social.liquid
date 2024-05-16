@@ -4,6 +4,9 @@
 {% if site.arxiv_id %}
   <a href="https://arxiv.org/a/{{ site.arxiv_id }}.html" title="arXiv"><i class="ai ai-arxiv"></i></a>
 {% endif %}
+{% if site.clarivate_id %}
+  <a href="https://www.webofscience.com/wos/author/record/{{ site.clarivate_id }}/" title="Clarivate"><i class="ai ai-clarivate"></i></a>
+{% endif %}
 {% if site.telegram_username %}
   <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fa-brands fa-telegram"></i></a>
 {% endif %}

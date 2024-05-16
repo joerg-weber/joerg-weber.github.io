@@ -70,6 +70,7 @@ acm_id: # your dl.acm.org/profile/id
 arxiv_id: weber_j_1 # your arXiv ID
 blogger_url: # your blogger URL
 bluesky_url: # your bluesky URL
+clarivate_id: JXX-0721-2024 # your clarivate id
 dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
@@ -88,7 +89,7 @@ medium_username: # your Medium username
 orcid_id: 0000-0003-3631-7491 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
-publons_id: JXX-0721-2024 # your ID on Publons
+publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: Joerg_Weber7 # your profile on ResearchGate
 scholar_userid: Y2TLjRMAAAAJ # your Google Scholar ID
