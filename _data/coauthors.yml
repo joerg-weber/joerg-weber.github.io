@@ -9,22 +9,43 @@
 "knopf":
   - firstname: ["Patrik"]
     url: https://homepages.uni-regensburg.de/~knp32048/index.html
-"bartsch":
-  - firstname: ["Jan"]
-    url: https://www.mathematik.uni-konstanz.de/volkwein/personen/forschungsgruppe/post-docs/dr-jan-bartsch/
 
-"bartsch":
-  - firstname: ["Jan"]
-    url: https://www.mathematik.uni-konstanz.de/volkwein/personen/forschungsgruppe/post-docs/dr-jan-bartsch/
+"korner":
+  - firstname: ["Jacob"]
+    url: https://www.mathematik.uni-wuerzburg.de/scientificcomputing/team/koerner-jacob/
 
-"bartsch":
-  - firstname: ["Jan"]
-    url: https://www.mathematik.uni-konstanz.de/volkwein/personen/forschungsgruppe/post-docs/dr-jan-bartsch/
+"rein":
+  - firstname: ["Gerhard"]
+    url: https://www.diffgleichg.uni-bayreuth.de/en/team/prof-rein/index.php
 
-"bartsch":
-  - firstname: ["Jan"]
-    url: https://www.mathematik.uni-konstanz.de/volkwein/personen/forschungsgruppe/post-docs/dr-jan-bartsch/
+"erhardt":
+  - firstname: ["André H."]
+    url: https://sites.google.com/site/andreerhardthomepage/home
 
-"bartsch":
-  - firstname: ["Jan"]
-    url: https://www.mathematik.uni-konstanz.de/volkwein/personen/forschungsgruppe/post-docs/dr-jan-bartsch/
+"lokharu":
+  - firstname: ["Evgeniy"]
+    url: https://portal.research.lu.se/en/persons/evgeniy-lokharu
+
+"scheurer":
+  - firstname: ["Stefania"]
+    url: https://www.iws.uni-stuttgart.de/en/institute/team/Scheurer/
+
+"otsetova":
+  - firstname: ["Anna-Mariya"]
+    url: https://research.aalto.fi/en/persons/anna-mariya-otsetova
+
+"straub":
+  - firstname: ["Christoper"]
+    url: https://www.diffgleichg.uni-bayreuth.de/en/team/christopher-straub/index.php
+
+"gunther":
+  - firstname: ["Sebastian"]
+    url: https://www.diffgleichg.uni-bayreuth.de/en/team/Former-Members/sebastian-guenther/index.php
+
+"potzl":
+  - firstname: ["Bastian"]
+    url: https://num.math.uni-bayreuth.de/en/team/emer-former/bastian-poetzl/index.php
+
+"lebeda":
+  - firstname: ["Timo"]
+    url: https://www.tp4.uni-bayreuth.de/en/team/index.php
