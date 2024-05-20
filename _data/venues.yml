@@ -2,8 +2,42 @@
   url: https://link.springer.com/journal/245
   color: "#503404"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ESAIM: COCV":
+  url: https://www.esaim-cocv.org/
+  color: "#f82434"
 
-"Vision":
-  color: "#009f36"
+"MMAS":
+  url: https://onlinelibrary.wiley.com/journal/10991476
+  color: "#f88424"
+
+"SIMA":
+  url: https://epubs.siam.org/journal/sjmaah
+  color: "#403c5c"
+
+"KRM":
+  url: https://www.aimsciences.org/krm
+  color: "#100c0c"
+
+"CQG":
+  url: https://iopscience.iop.org/journal/0264-9381
+  color: "#90ccbc"
+
+"NONRWA":
+  url: https://www.sciencedirect.com/journal/nonlinear-analysis-real-world-applications
+  color: "#e8f4f4"
+
+"IMRN":
+  url: https://academic.oup.com/imrn
+  color: "#188474"
+
+"SAM":
+  url: https://onlinelibrary.wiley.com/journal/14679590
+  color: "#18246c"
+
+"JMFM":
+  url: https://link.springer.com/journal/21
+  color: "#080c64"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b81c1c"
