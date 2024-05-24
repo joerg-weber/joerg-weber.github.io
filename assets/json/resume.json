@@ -22,13 +22,34 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "position": "Moritz Schlick postdoctoral fellow",
+      "name": "Faculty of Mathematics, University of Vienna",
+      "startDate": "2023-10-15",
+      "endDate": "today"
+    }
+    {
+      "position": "Junior fellow",
+      "name": "Institute Mittag-Leffler",
+      "startDate": "2023-09-01",
+      "endDate": "2023-10-14"
+    }
+    {
+      "position": "Researcher",
+      "name": "Centre for Mathematical Sciences, Lund University",
+      "startDate": "2022-09-01",
+      "endDate": "2023-08-31"
+    }
+    {
+      "position": "Postdoctoral fellow",
+      "name": "Centre for Mathematical Sciences, Lund University",
+      "startDate": "2020-09-01",
+      "endDate": "2022-08-31"
+    }
+    {
+      "position": "Research assistant",
+      "name": "Department of Mathematics, University of Bayreuth",
+      "startDate": "2016-10-15",
+      "endDate": "2020-08-31"
     }
   ],
   "volunteer": [
