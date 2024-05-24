@@ -1,18 +1,13 @@
 {
   "basics": {
     "name": "Jörg Weber",
-    "title": "Dr. rer. nat",
+    "title": "Dr. rer. nat.",
     "gender": "male",
     "nationality": "German",
     "email": "joerg.weber@univie.ac.at",
     "phone": "+43 1 4277 50428",
     "url": "https://joergweber.github.io/",
-    "location": {
-      "address": "Oskar-Morgenstern-Platz 1",
-      "postalCode": "1090",
-      "city": "Vienna",
-      "countryCode": "AT"
-    },
+    "address": "Oskar-Morgenstern-Platz 1, 1090 Vienna, Austria",
     "profiles": [
       {
         "network": "ORCID",
@@ -22,115 +17,90 @@
   },
   "work": [
     {
-      "position": "Moritz Schlick postdoctoral fellow",
       "name": "Faculty of Mathematics, University of Vienna",
+      "position": "Moritz Schlick postdoctoral fellow",
+      "url": "https://mathematik.univie.ac.at/en/",
       "startDate": "2023-10-15",
       "endDate": "today"
-    }
+    },
     {
+      "name": "Institut Mittag-Leffler",
       "position": "Junior fellow",
-      "name": "Institute Mittag-Leffler",
+      "url": "https://www.mittag-leffler.se/",
       "startDate": "2023-09-01",
       "endDate": "2023-10-14"
-    }
+    },
     {
-      "position": "Researcher",
       "name": "Centre for Mathematical Sciences, Lund University",
+      "position": "Researcher",
+      "url": "https://www.maths.lu.se/english/",
       "startDate": "2022-09-01",
       "endDate": "2023-08-31"
-    }
+    },
     {
-      "position": "Postdoctoral fellow",
       "name": "Centre for Mathematical Sciences, Lund University",
+      "position": "Postdoctoral fellow",
+      "url": "https://www.maths.lu.se/english/",
       "startDate": "2020-09-01",
       "endDate": "2022-08-31"
-    }
+    },
     {
-      "position": "Research assistant",
       "name": "Department of Mathematics, University of Bayreuth",
+      "position": "Research assistant",
+      "url": "https://www.math.uni-bayreuth.de//en/index.php",
       "startDate": "2016-10-15",
       "endDate": "2020-08-31"
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Bayreuth, Germany",
+      "url": "https://www.uni-bayreuth.de/en",
+      "area": "Thesis: The Relativistic Vlasov–Maxwell System with External Electromagnetic Fields",
+      "studyType": "Ph.D.",
+      "startDate": "2017-01-01",
+      "endDate": "2020-07-24"
+    },
+    {
+      "institution": "University of Bayreuth, Germany",
+      "url": "https://www.uni-bayreuth.de/en",
+      "subject": "Mathematics, secondary subject Physics",
+      "area": "Thesis: Optimal Control of the Two-Dimensional Vlasov-Maxwell-System",
+      "studyType": "Master of Science",
+      "startDate": "2014-10-01",
+      "endDate": "2016-12-31"
+    },
+    {
+      "institution": "University of Bayreuth, Germany",
+      "url": "https://www.uni-bayreuth.de/en",
+      "subject": "Mathematics, secondary subject Physics",
+      "area": "Thesis: Perronsche Methode und Greensche Funktionen",
+      "studyType": "Bachelor of Science",
+      "startDate": "2011-10-01",
+      "endDate": "2014-09-30"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Junior fellowship",
+      "date": "2023",
+      "awarder": "Institut Mittag-Leffler",
+      "url": "https://www.mittag-leffler.se/"
+    },
+    {
+      "title": "Seal of Excellence",
+      "date": "2023",
+      "awarder": "European Commission for a high-quality project proposal submitted under the call for Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2022",
+      "url": "https://erc.europa.eu/homepage"
+    },
+    {
+      "title": "Nominated for Teaching Award of the Faculty of Mathematics, Physics & Computer Sciences",
+      "date": "2017",
+      "awarder": "University of Bayreuth",
+      "url": "https://www.uni-bayreuth.de/en"
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
+  "grants": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -155,16 +125,14 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Computer skills",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C++",
+        "LaTeX",
+        "Maple",
+        "Matlab",
+        "Office"
       ]
     }
   ],
@@ -178,42 +146,32 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Intermediate",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Kinetic theory",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "analysis of Vlasov-Poisson, Vlasov-Maxwell",
+        "optimal control problems in plasma physics",
+        "construction and stability of confined stationary plasmas"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Fluid mechanics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "steady water waves modelled by full Euler equations",
+        "two-dimensional waves with general vorticity",
+        "amplitude bounds for water waves",
+        "axisymmetric waves with vorticity and swirl"
+      ]
     }
   ]
 }
