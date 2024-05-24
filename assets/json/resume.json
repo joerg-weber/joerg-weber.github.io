@@ -1,24 +1,22 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Jörg Weber",
+    "title": "Dr. rer. nat",
+    "gender": "male",
+    "nationality": "German",
+    "email": "joerg.weber@univie.ac.at",
+    "phone": "+43 1 4277 50428",
+    "url": "https://joergweber.github.io/",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Oskar-Morgenstern-Platz 1",
+      "postalCode": "1090",
+      "city": "Vienna",
+      "countryCode": "AT"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "ORCID",
+        "url": "https://orcid.org/0000-0003-3631-7491"
       }
     ]
   },
