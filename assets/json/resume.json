@@ -48,35 +48,38 @@
     {
       "name": "Department of Mathematics, University of Bayreuth",
       "position": "Research assistant",
-      "url": "https://www.math.uni-bayreuth.de//en/index.php",
+      "url": "https://www.math.uni-bayreuth.de/en",
       "startDate": "2016-10-15",
       "endDate": "2020-08-31"
     }
   ],
   "education": [
     {
-      "institution": "University of Bayreuth, Germany",
+      "institution": "University of Bayreuth",
       "url": "https://www.uni-bayreuth.de/en",
-      "subject": "Supervisor: Prof. Dr. Gerhard Rein",
-      "area": "Thesis: The Relativistic Vlasov–Maxwell System with External Electromagnetic Fields",
+      "supervisor": "Prof. Dr. Gerhard Rein",
+      "supervisorurl": "https://www.diffgleichg.uni-bayreuth.de/en/team/prof-rein",
+      "thesis": "The Relativistic Vlasov&mdash;Maxwell System with External Electromagnetic Fields",
+      "thesisurl": "https://epub.uni-bayreuth.de/id/eprint/4964",
       "studyType": "Ph.D.",
       "startDate": "2017-01-01",
       "endDate": "2020-07-24"
     },
     {
-      "institution": "University of Bayreuth, Germany",
+      "institution": "University of Bayreuth",
       "url": "https://www.uni-bayreuth.de/en",
       "subject": "Mathematics, secondary subject Physics",
-      "area": "Thesis: Optimal Control of the Two-Dimensional Vlasov-Maxwell-System",
+      "thesis": "Optimal Control of the Two-Dimensional Vlasov-Maxwell-System",
+      "thesisurl": "https://epub.uni-bayreuth.de/id/eprint/3860",
       "studyType": "Master of Science",
       "startDate": "2014-10-01",
       "endDate": "2016-12-31"
     },
     {
-      "institution": "University of Bayreuth, Germany",
+      "institution": "University of Bayreuth",
       "url": "https://www.uni-bayreuth.de/en",
       "subject": "Mathematics, secondary subject Physics",
-      "area": "Thesis: Perronsche Methode und Greensche Funktionen",
+      "thesis": "Perronsche Methode und Greensche Funktionen",
       "studyType": "Bachelor of Science",
       "startDate": "2011-10-01",
       "endDate": "2014-09-30"
@@ -85,14 +88,16 @@
   "grants": [
     {
       "name": "Localised pure-gravity water waves",
-      "publisher": "The Fund of the Walter Gyllenberg Foundation, The Royal Physiographic Society of Lund",
+      "fund": "The Fund of the Walter Gyllenberg Foundation",
+      "fundurl": "https://www.fysiografen.se/en/grants/grants-overview/forskningsstipendierresearch-grants/stiftelsen-walter-gyllenbergs-fond/",
+      "organisation": "The Royal Physiographic Society of Lund",
+      "organisationurl": "https://www.fysiografen.se/en",
       "releaseDate": "2023",
-      "url": "https://www.fysiografen.se/en",
-      "summary": "46,000 SEK"
+      "value": "46,000 SEK"
     },
     {
       "name": "Various travel fundings",
-      "publisher": "Workshop on spatial dynamics and related approaches, University of Stuttgart; When Kinetic Theory meets Fluid Mechanics, ETH Zürich; Conference on Mathematics of Wave Phenomena, Karlsruhe Institute of Technology",
+      "fund": "Workshop on spatial dynamics and related approaches, University of Stuttgart; When Kinetic Theory meets Fluid Mechanics, ETH Zürich; Conference on Mathematics of Wave Phenomena, Karlsruhe Institute of Technology",
       "releaseDate": "2022"
     }
   ],
@@ -101,19 +106,20 @@
       "title": "Junior fellowship",
       "date": "2023",
       "awarder": "Institut Mittag-Leffler",
-      "url": "https://www.mittag-leffler.se"
+      "awarderurl": "https://www.mittag-leffler.se"
     },
     {
       "title": "Seal of Excellence",
       "date": "2023",
-      "awarder": "European Commission for a high-quality project proposal submitted under the call for Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2022",
-      "url": "https://erc.europa.eu/homepage"
+      "awarder": "European Commission",
+      "summary": "for a high-quality project proposal submitted under the call for Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2022",
+      "awarderurl": "https://erc.europa.eu/homepage"
     },
     {
-      "title": "Nominated for Teaching Award of the Faculty of Mathematics, Physics & Computer Sciences",
+      "title": "Nominated for the Teaching Award of the Faculty of Mathematics, Physics & Computer Sciences",
       "date": "2017",
-      "awarder": "University of Bayreuth",
-      "url": "https://www.uni-bayreuth.de/en"
+      "awarder": "Faculty of Mathematics, Physics & Computer Sciences, University of Bayreuth",
+      "awarderurl": "https://www.maphin.uni-bayreuth.de/en"
     }
   ],
   "profiles": [
@@ -176,8 +182,10 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "C++",
+        "HTML",
         "LaTeX",
         "Maple",
+        "Mathematica",
         "Matlab",
         "Office"
       ]

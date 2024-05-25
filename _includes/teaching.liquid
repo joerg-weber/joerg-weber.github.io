@@ -1,12 +1,14 @@
 <div class="col">
-  <a href="{% if teaching.redirect %}{{ teaching.redirect }}{% else %}{{ teaching.url | relative_url }}{% endif %}">
-    <div class="card h-100 hoverable">
-      <div class="card-body">
-        <h2 class="card-title">{{ teaching.title }}</h2>
-        <p class="card-text">{{ teaching.description }}</p>
-        <div class="row ml-1 mr-1 p-0">
-        </div>
+  <div class="card h-100 hoverable">
+    <div class="card-body">
+      {% if teaching.link %}
+      <a href="{{ teaching.link }}"><h2 class="card-title">{{ teaching.title }}</h2></a>
+      {% else %}
+      <h2 class="card-title">{{ teaching.title }}</h2>
+      {% endif %}
+      <p class="card-text">{{ teaching.description }} {% if teaching.moodle %} | <a href="{{ teaching.moodle }}">Moodle</a> {% endif %}</p>
+      <div class="row ml-1 mr-1 p-0">
       </div>
     </div>
-  </a>
+  </div>
 </div>
