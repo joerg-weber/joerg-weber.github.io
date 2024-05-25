@@ -4,9 +4,10 @@
     "title": "Dr. rer. nat.",
     "gender": "male",
     "nationality": "German",
+    "date of birth": "2nd April 1993",
     "email": "joerg.weber@univie.ac.at",
     "phone": "+43 1 4277 50428",
-    "url": "https://joergweber.github.io/",
+    "url": "https://joergweber.github.io",
     "address": "Oskar-Morgenstern-Platz 1, 1090 Vienna, Austria",
     "profiles": [
       {
@@ -19,28 +20,28 @@
     {
       "name": "Faculty of Mathematics, University of Vienna",
       "position": "Moritz Schlick postdoctoral fellow",
-      "url": "https://mathematik.univie.ac.at/en/",
+      "url": "https://mathematik.univie.ac.at/en",
       "startDate": "2023-10-15",
       "endDate": "today"
     },
     {
       "name": "Institut Mittag-Leffler",
       "position": "Junior fellow",
-      "url": "https://www.mittag-leffler.se/",
+      "url": "https://www.mittag-leffler.se",
       "startDate": "2023-09-01",
       "endDate": "2023-10-14"
     },
     {
       "name": "Centre for Mathematical Sciences, Lund University",
       "position": "Researcher",
-      "url": "https://www.maths.lu.se/english/",
+      "url": "https://www.maths.lu.se/english",
       "startDate": "2022-09-01",
       "endDate": "2023-08-31"
     },
     {
       "name": "Centre for Mathematical Sciences, Lund University",
       "position": "Postdoctoral fellow",
-      "url": "https://www.maths.lu.se/english/",
+      "url": "https://www.maths.lu.se/english",
       "startDate": "2020-09-01",
       "endDate": "2022-08-31"
     },
@@ -56,6 +57,7 @@
     {
       "institution": "University of Bayreuth, Germany",
       "url": "https://www.uni-bayreuth.de/en",
+      "subject": "Supervisor: Prof. Dr. Gerhard Rein",
       "area": "Thesis: The Relativistic Vlasov–Maxwell System with External Electromagnetic Fields",
       "studyType": "Ph.D.",
       "startDate": "2017-01-01",
@@ -80,12 +82,26 @@
       "endDate": "2014-09-30"
     }
   ],
+  "grants": [
+    {
+      "name": "Localised pure-gravity water waves",
+      "publisher": "The Fund of the Walter Gyllenberg Foundation, The Royal Physiographic Society of Lund",
+      "releaseDate": "2023",
+      "url": "https://www.fysiografen.se/en",
+      "summary": "46,000 SEK"
+    },
+    {
+      "name": "Various travel fundings",
+      "publisher": "Workshop on spatial dynamics and related approaches, University of Stuttgart; When Kinetic Theory meets Fluid Mechanics, ETH Zürich; Conference on Mathematics of Wave Phenomena, Karlsruhe Institute of Technology",
+      "releaseDate": "2022"
+    }
+  ],
   "awards": [
     {
       "title": "Junior fellowship",
       "date": "2023",
       "awarder": "Institut Mittag-Leffler",
-      "url": "https://www.mittag-leffler.se/"
+      "url": "https://www.mittag-leffler.se"
     },
     {
       "title": "Seal of Excellence",
@@ -100,30 +116,61 @@
       "url": "https://www.uni-bayreuth.de/en"
     }
   ],
-  "grants": [
+  "profiles": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "zbMATH",
+      "url": "https://zbmath.org/authors/?q=weber.jorg",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=57203985028",
+      "icon": "ai ai-scopus"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
+      "name": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Joerg_Weber7",
+      "icon": "ai ai-researchgate"
+    },
+    {
+      "name": "ORCID",
+      "url": "https://orcid.org/0000-0003-3631-7491",
+      "icon": "ai ai-orcid"
+    },
+    {
+      "name": "MathSciNet",
+      "url": "TODO",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=Y2TLjRMAAAAJ",
+      "icon": "ai ai-google-scholar"
+    },
+    {
+      "name": "Clarivate",
+      "url": "https://www.webofscience.com/wos/author/record/JXX-0721-2024",
+      "icon": "ai ai-clarivate"
+    },
+    {
+      "name": "arXiv",
+      "url": "https://arxiv.org/a/weber_j_1.html",
+      "icon": "ai ai-arxiv"
+    }    
   ],
   "skills": [
+    {
+      "name": "Mathematical skills",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "nonlinear PDEs",
+        "kinetic theory",
+        "fluid mechanics",
+        "solution theory of PDEs",
+        "optimal control of PDEs",
+        "bifurcation methods"
+      ]
+    },
     {
       "name": "Computer skills",
       "icon": "fa-solid fa-hashtag",

@@ -48,6 +48,14 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Activities -->
+    {% if page.activities and site.announcements.enabled %}
+      <h2>
+        upcoming <a href="{{ '/activities/' | relative_url }}" style="color: inherit">activities</a>
+      </h2>
+      {% include activities.liquid limit=true %}
+    {% endif %}
+
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
