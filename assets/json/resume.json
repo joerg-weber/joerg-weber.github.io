@@ -2,19 +2,13 @@
   "basics": {
     "name": "Jörg Weber",
     "title": "Dr. rer. nat.",
+    "date of birth": "2nd April 1993",
     "gender": "male",
     "nationality": "German",
-    "date of birth": "2nd April 1993",
+    "address": "Oskar-Morgenstern-Platz 1, 1090 Vienna, Austria",
     "email": "joerg.weber@univie.ac.at",
     "phone": "+43 1 4277 50428",
-    "url": "https://joergweber.github.io",
-    "address": "Oskar-Morgenstern-Platz 1, 1090 Vienna, Austria",
-    "profiles": [
-      {
-        "network": "ORCID",
-        "url": "https://orcid.org/0000-0003-3631-7491"
-      }
-    ]
+    "url": "https://joergweber.github.io"
   },
   "work": [
     {
@@ -145,7 +139,7 @@
     },
     {
       "name": "MathSciNet",
-      "url": "TODO",
+      "url": "https://mathscinet.ams.org/mathscinet/author?authorId=1380474",
       "icon": "fa-solid fa-tag"
     },
     {
@@ -194,17 +188,17 @@
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker",
+      "fluency": "native",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "fluent",
       "icon": ""
     },
     {
       "language": "Swedish",
-      "fluency": "Intermediate",
+      "fluency": "intermediate",
       "icon": ""
     }
   ],
