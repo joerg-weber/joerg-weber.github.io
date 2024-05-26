@@ -14,7 +14,7 @@
     {
       "name": "Faculty of Mathematics, University of Vienna",
       "position": "Moritz Schlick postdoctoral fellow",
-      "url": "https://mathematik.univie.ac.at/en",
+      "url": "https://mathematik.univie.ac.at/en/",
       "startDate": "2023-10-15",
       "endDate": "today"
     },
@@ -28,21 +28,21 @@
     {
       "name": "Centre for Mathematical Sciences, Lund University",
       "position": "Researcher",
-      "url": "https://www.maths.lu.se/english",
+      "url": "https://www.maths.lu.se/english/",
       "startDate": "2022-09-01",
       "endDate": "2023-08-31"
     },
     {
       "name": "Centre for Mathematical Sciences, Lund University",
       "position": "Postdoctoral fellow",
-      "url": "https://www.maths.lu.se/english",
+      "url": "https://www.maths.lu.se/english/",
       "startDate": "2020-09-01",
       "endDate": "2022-08-31"
     },
     {
       "name": "Department of Mathematics, University of Bayreuth",
       "position": "Research assistant",
-      "url": "https://www.math.uni-bayreuth.de/en",
+      "url": "https://www.math.uni-bayreuth.de/en/",
       "startDate": "2016-10-15",
       "endDate": "2020-08-31"
     }
@@ -50,28 +50,28 @@
   "education": [
     {
       "institution": "University of Bayreuth",
-      "url": "https://www.uni-bayreuth.de/en",
+      "url": "https://www.uni-bayreuth.de/en/",
       "supervisor": "Prof. Dr. Gerhard Rein",
-      "supervisorurl": "https://www.diffgleichg.uni-bayreuth.de/en/team/prof-rein",
+      "supervisorurl": "https://www.diffgleichg.uni-bayreuth.de/en/team/prof-rein/",
       "thesis": "The Relativistic Vlasov&mdash;Maxwell System with External Electromagnetic Fields",
-      "thesisurl": "https://epub.uni-bayreuth.de/id/eprint/4964",
+      "thesisurl": "https://epub.uni-bayreuth.de/id/eprint/4964/",
       "studyType": "Ph.D.",
       "startDate": "2017-01-01",
       "endDate": "2020-07-24"
     },
     {
       "institution": "University of Bayreuth",
-      "url": "https://www.uni-bayreuth.de/en",
+      "url": "https://www.uni-bayreuth.de/en/",
       "subject": "Mathematics, secondary subject Physics",
       "thesis": "Optimal Control of the Two-Dimensional Vlasov-Maxwell-System",
-      "thesisurl": "https://epub.uni-bayreuth.de/id/eprint/3860",
+      "thesisurl": "https://epub.uni-bayreuth.de/id/eprint/3860/",
       "studyType": "Master of Science",
       "startDate": "2014-10-01",
       "endDate": "2016-12-31"
     },
     {
       "institution": "University of Bayreuth",
-      "url": "https://www.uni-bayreuth.de/en",
+      "url": "https://www.uni-bayreuth.de/en/",
       "subject": "Mathematics, secondary subject Physics",
       "thesis": "Perronsche Methode und Greensche Funktionen",
       "studyType": "Bachelor of Science",
@@ -85,7 +85,7 @@
       "fund": "The Fund of the Walter Gyllenberg Foundation",
       "fundurl": "https://www.fysiografen.se/en/grants/grants-overview/forskningsstipendierresearch-grants/stiftelsen-walter-gyllenbergs-fond/",
       "organisation": "Royal Physiographic Society of Lund",
-      "organisationurl": "https://www.fysiografen.se/en",
+      "organisationurl": "https://www.fysiografen.se/en/",
       "releaseDate": "2023",
       "value": "46,000 SEK"
     },
@@ -113,7 +113,7 @@
       "title": "Nominated for the Teaching Award of the Faculty of Mathematics, Physics & Computer Sciences",
       "date": "2017",
       "awarder": "Faculty of Mathematics, Physics & Computer Sciences, University of Bayreuth",
-      "awarderurl": "https://www.maphin.uni-bayreuth.de/en"
+      "awarderurl": "https://www.maphin.uni-bayreuth.de/en/"
     }
   ],
   "profiles": [
