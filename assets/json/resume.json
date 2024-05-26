@@ -50,7 +50,7 @@
   "education": [
     {
       "institution": "University of Bayreuth",
-      "url": "https://www.uni-bayreuth.de/en/",
+      "url": "https://www.uni-bayreuth.de/en",
       "supervisor": "Prof. Dr. Gerhard Rein",
       "supervisorurl": "https://www.diffgleichg.uni-bayreuth.de/en/team/prof-rein/",
       "thesis": "The Relativistic Vlasov&mdash;Maxwell System with External Electromagnetic Fields",
@@ -61,7 +61,7 @@
     },
     {
       "institution": "University of Bayreuth",
-      "url": "https://www.uni-bayreuth.de/en/",
+      "url": "https://www.uni-bayreuth.de/en",
       "subject": "Mathematics, secondary subject Physics",
       "thesis": "Optimal Control of the Two-Dimensional Vlasov-Maxwell-System",
       "thesisurl": "https://epub.uni-bayreuth.de/id/eprint/3860/",
@@ -71,7 +71,7 @@
     },
     {
       "institution": "University of Bayreuth",
-      "url": "https://www.uni-bayreuth.de/en/",
+      "url": "https://www.uni-bayreuth.de/en",
       "subject": "Mathematics, secondary subject Physics",
       "thesis": "Perronsche Methode und Greensche Funktionen",
       "studyType": "Bachelor of Science",
