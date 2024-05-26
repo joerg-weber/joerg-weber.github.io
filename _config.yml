@@ -181,9 +181,9 @@ collections:
   teaching:
     output: true
     permalink: /teaching/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
+  #projects:
+   # output: true
+    #permalink: /projects/:path/
 
 announcements:
   enabled: true
