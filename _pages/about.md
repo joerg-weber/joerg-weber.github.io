@@ -23,7 +23,7 @@ I am a postdoctoral fellow in mathematics at the [University of Vienna](https://
 
 My research concerns the analytical study of nonlinear partial differential equations, in particular within the scope of kinetic theory and fluid mechanics. My main interests include
  <ul>
-  <li>analysis of kinetic equations such as Vlasov--Poisson or Vlasov--Maxwell,</li>
+  <li>analysis of kinetic equations such as Vlasov&mdash;Poisson or Vlasov&mdash;Maxwell,</li>
   <li>optimal control problems arising in plasma physics,</li>
   <li>construction and stability of confined stationary plasmas,</li>
 </ul>

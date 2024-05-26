@@ -207,7 +207,7 @@
       "name": "Kinetic theory",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "analysis of Vlasov-Poisson, Vlasov-Maxwell",
+        "analysis of Vlasov&mdash;Poisson, Vlasov&mdash;Maxwell",
         "optimal control problems in plasma physics",
         "construction and stability of confined stationary plasmas"
       ]
