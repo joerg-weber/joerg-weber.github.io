@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description:
 nav: true
 nav_order: 3
 display_categories: [current, past, supervision, upskilling]
@@ -22,4 +22,4 @@ display_categories: [current, past, supervision, upskilling]
     {% endfor %}
   </div>
   {% endfor %}
-</div>           
+</div>

@@ -156,33 +156,18 @@
       "name": "arXiv",
       "url": "https://arxiv.org/a/weber_j_1.html",
       "icon": "ai ai-arxiv"
-    }    
+    }
   ],
   "skills": [
     {
       "name": "Mathematical skills",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "nonlinear PDEs",
-        "kinetic theory",
-        "fluid mechanics",
-        "solution theory of PDEs",
-        "optimal control of PDEs",
-        "bifurcation methods"
-      ]
+      "keywords": ["nonlinear PDEs", "kinetic theory", "fluid mechanics", "solution theory of PDEs", "optimal control of PDEs", "bifurcation methods"]
     },
     {
       "name": "Computer skills",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "C++",
-        "HTML",
-        "LaTeX",
-        "Maple",
-        "Mathematica",
-        "Matlab",
-        "Office"
-      ]
+      "keywords": ["C++", "HTML", "LaTeX", "Maple", "Mathematica", "Matlab", "Office"]
     }
   ],
   "languages": [

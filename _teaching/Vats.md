@@ -5,4 +5,3 @@ description: "Bachelor's thesis | Co-supervision | Lund, 2023"
 category: supervision
 number: 2
 ---
-
