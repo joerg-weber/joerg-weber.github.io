@@ -173,16 +173,16 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
-    permalink: /news/:path/
+    output: false
+    #permalink: /news/:path/
   activities:
     defaults:
       layout: post
-    output: true
-    permalink: /activities/:path/
+    output: false
+    #permalink: /activities/:path/
   teaching:
-    output: true
-    permalink: /teaching/:path/
+    output: false
+    #permalink: /teaching/:path/
   #projects:
   # output: true
   #permalink: /projects/:path/
