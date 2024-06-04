@@ -16,7 +16,7 @@ keywords: # jekyll, jekyll-theme, academic-website, portfolio-website # add your
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://joergweber.github.io # the base hostname & protocol for your site
+url: https://joerg-weber.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -103,7 +103,7 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: https://mathematik.univie.ac.at/ueber-uns/mitarbeiterinnen/?api_task=member_details&api_mid=2568 # work page URL
+work_url: https://mathematik.univie.ac.at/en/about-us/staff/?api_pkey=1007079&no_cache=1&api_task=member_details&api_lang=en # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
