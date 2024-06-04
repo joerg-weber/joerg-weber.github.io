@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://joergweber.github.io/sitemap.xml
+Sitemap: https://joerg-weber.github.io/sitemap.xml
