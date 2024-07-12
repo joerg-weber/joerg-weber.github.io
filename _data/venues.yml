@@ -38,6 +38,10 @@
   url: https://link.springer.com/journal/21
   color: "#080c64"
 
+"SICON":
+  url: https://epubs.siam.org/journal/sjcodc
+  color: "#82401d"
+
 "arXiv":
   url: https://arxiv.org/
   color: "#b81c1c"
