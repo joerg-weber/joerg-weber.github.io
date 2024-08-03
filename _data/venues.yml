@@ -42,6 +42,10 @@
   url: https://epubs.siam.org/journal/sjcodc
   color: "#82401d"
 
+"DMJ":
+  url: https://projecteuclid.org/journals/duke-mathematical-journal
+  color: "#0b85c6"
+
 "arXiv":
   url: https://arxiv.org/
   color: "#b81c1c"
