@@ -21,22 +21,22 @@ social: true # includes social icons at the bottom of the page
 
 I am a postdoctoral fellow in mathematics at the [University of Vienna](https://www.univie.ac.at/en/), mentored by [Adrian Constantin](https://mathematik.univie.ac.at/en/about-us/staff/?api_pkey=36146&no_cache=1&api_task=member_details&api_lang=en). I obtained my Ph.D. in 2020 from the [University of Bayreuth](https://www.uni-bayreuth.de/en) under the supervision of [Gerhard Rein](https://www.diffgleichg.uni-bayreuth.de/en/team/prof-rein/). Afterwards I was a postdoctoral fellow and researcher at [Lund University](https://www.lunduniversity.lu.se), mentored by [Erik Wahlén](https://portal.research.lu.se/en/persons/erik-wahlen).
 
-My research concerns the analytical study of nonlinear partial differential equations, in particular within the scope of kinetic theory and fluid mechanics. My main interests include
+My research concerns the analytical study of nonlinear partial differential equations, in particular within the scope of fluid mechanics and kinetic theory. My main interests include
 
 <ul>
-  <li>in kinetic theory
-    <ul>
-      <li>analysis of kinetic equations such as Vlasov&mdash;Poisson or Vlasov&mdash;Maxwell,</li>
-      <li>optimal control problems arising in plasma physics,</li>
-      <li>construction and stability of confined stationary plasmas;</li>
-    </ul>
-  </li>
   <li>in fluid mechanics
     <ul>
       <li>steady water waves modelled by the full Euler equations,</li>
       <li>two-dimensional waves with general vorticity,</li>
       <li>amplitude bounds for water waves,</li>
-      <li>axisymmetric waves with vorticity and swirl.</li>
+      <li>axisymmetric waves with vorticity and swirl;</li>
+    </ul>
+  </li>
+  <li>in kinetic theory
+    <ul>
+      <li>analysis of kinetic equations such as Vlasov&mdash;Poisson or Vlasov&mdash;Maxwell,</li>
+      <li>optimal control problems arising in plasma physics,</li>
+      <li>construction and stability of confined stationary plasmas.</li>
     </ul>
   </li>
 </ul>
