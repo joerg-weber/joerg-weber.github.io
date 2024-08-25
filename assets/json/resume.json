@@ -189,15 +189,6 @@
   ],
   "interests": [
     {
-      "name": "Kinetic theory",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "analysis of Vlasov&mdash;Poisson, Vlasov&mdash;Maxwell",
-        "optimal control problems in plasma physics",
-        "construction and stability of confined stationary plasmas"
-      ]
-    },
-    {
       "name": "Fluid mechanics",
       "icon": "fa-solid fa-tag",
       "keywords": [
@@ -205,6 +196,15 @@
         "two-dimensional waves with general vorticity",
         "amplitude bounds for water waves",
         "axisymmetric waves with vorticity and swirl"
+      ]
+    },
+    {
+      "name": "Kinetic theory",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "analysis of Vlasov&mdash;Poisson, Vlasov&mdash;Maxwell",
+        "optimal control problems in plasma physics",
+        "construction and stability of confined stationary plasmas"
       ]
     }
   ]
