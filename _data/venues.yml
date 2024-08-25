@@ -46,6 +46,10 @@
   url: https://projecteuclid.org/journals/duke-mathematical-journal
   color: "#0b85c6"
 
+"JDE":
+  url: https://www.sciencedirect.com/journal/journal-of-differential-equations
+  color: "#90742c"
+
 "arXiv":
   url: https://arxiv.org/
   color: "#b81c1c"
