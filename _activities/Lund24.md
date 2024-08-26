@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Workshop <a href="http://theoryofwaterwaves.org/">Mathematical Theory of Water Waves</a>, August 20&mdash;22, 2024, at Lund University, Sweden.
+Workshop <a href="http://theoryofwaterwaves.org/">Mathematical theory of water waves</a>, August 20&mdash;22, 2024, at Lund University, Sweden.
