@@ -83,8 +83,17 @@
           {%- assign second_last_index = forloop.length | minus: 1 -%}
           {%- if forloop.first %}With&nbsp;{% endif -%}
           {%- if forloop.first == false and forloop.index < second_last_index and author_is_self == false -%},&nbsp;{% endif -%}
-          {%- if forloop.length > 2 and forloop.index == second_last_index and author_appeared == false and author_is_self == false and author_array_limit == author_array_size %}&nbsp;and&nbsp;{% endif -%}
-          {%- if forloop.length > 2 and forloop.last and author_is_self == false and author_array_limit == author_array_size %}&nbsp;and&nbsp;{% endif -%}
+          {%- if forloop.length > 2
+            and forloop.index == second_last_index
+            and author_appeared == false
+            and author_is_self == false
+            and author_array_limit == author_array_size
+          -%}
+            &nbsp;and&nbsp;
+          {%- endif -%}
+          {%- if forloop.length > 2 and forloop.last and author_is_self == false and author_array_limit == author_array_size -%}
+            &nbsp;and&nbsp;
+          {%- endif -%}
         {% endif %}
         {%- if author_is_self == false -%}
           {%- if coauthor_url -%}
@@ -146,11 +155,30 @@
     {% else %}
       {% capture entrytype %}{% endcapture %}
     {% endif %}
-    {% if entry.month %}
-      {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
+    {% if entry.volume %}
+      {% capture entryvolume %}{{ " " }}{{entry.volume}}{% endcapture %}
+    {% else %}
+      {% capture entryvolume %}{% endcapture %}
     {% endif %}
     {% if entry.year %}
-      # {% capture entryyear %}{{ " " }}{{entry.year}}{% endcapture %}
+      {% capture entryyear %}{{ " (" }}{{entry.year}}{{ ")" }}{% endcapture %}
+    {% else %}
+      {% capture entryyear %}{% endcapture %}
+    {% endif %}
+    {% if entry.number %}
+      {% capture entrynumber %}{{ "." }}{{entry.number}}{% endcapture %}
+    {% else %}
+      {% capture entrynumber %}{% endcapture %}
+    {% endif %}
+    {% if entry.pages %}
+      {% capture entrypages %}{{ ", " }}{{entry.pages}}{% endcapture %}
+    {% else %}
+      {% capture entrypages %}{% endcapture %}
+    {% endif %}
+    {% if entry.eid %}
+      {% capture entryeid %}{{ ", " }}{{entry.eid}}{% endcapture %}
+    {% else %}
+      {% capture entryeid %}{% endcapture %}
     {% endif %}
     {% if entry.location %}
       {% capture entrytype %}{{entrytype}}{{ ", " }}{{entry.location}}{% endcapture %}
@@ -163,7 +191,7 @@
       {% include hook/bib.liquid %}
     {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
-    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}{% if entry.pages %}{{ entryvolume }}{{ entrynumber }}{{ entryyear }}{{ entrypages }}{% elsif entry.eid %}{{ entryvolume }}{{ entrynumber }}{{ entryeid }}{{ entryyear }}{% endif %}{% endif %}{% endcapture %}
     <div class="periodical">
       {{ periodical | strip }}
     </div>
