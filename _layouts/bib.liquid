@@ -149,19 +149,19 @@
       {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
     {% endif %}
     {% if entry.volume %}
-      {% capture entrytype %}{{ " " }}{{entry.volume}}{% endcapture %}
+      {% capture entryvolume %}{{ " " }}{{entry.volume}}{% endcapture %}
     {% endif %}
     {% if entry.number %}
-      {% capture entrytype %}{{ "." }}{{entry.number}}{% endcapture %}
+      {% capture entrynumber %}{{ "." }}{{entry.number}}{% endcapture %}
     {% endif %}
     {% if entry.eid %}
-      {% capture entrytype %}{{ ", " }}{{entry.eid}}{% endcapture %}
+      {% capture entryeid %}{{ ", " }}{{entry.eid}}{% endcapture %}
     {% endif %}
     {% if entry.year %}
       {% capture entryyear %}{{ " (" }}{{entry.year}}{{ ")" }}{% endcapture %}
     {% endif %}
     {% if entry.pages %}
-      {% capture entrytype %}{{ ", " }}{{entry.pages}}{% endcapture %}
+      {% capture entrypages %}{{ ", " }}{{entry.pages}}{% endcapture %}
     {% endif %}
     {% if entry.location %}
       {% capture entrytype %}{{entrytype}}{{ ", " }}{{entry.location}}{% endcapture %}
