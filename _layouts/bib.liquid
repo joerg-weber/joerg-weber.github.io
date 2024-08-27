@@ -77,8 +77,8 @@
         {%- endif -%}
 
         {%- if forloop.length > 1 -%}
-          {% assign second_last_index = forloop.length - 2 %}
-          {% if forloop.first %}With&nbsp;{% endif %}
+          {%- assign second_last_index = forloop.length - 2 -%}
+          {%- if forloop.first %}With&nbsp;{% endif -%}
           {%- if forloop.first == false and forloop.index < second_last_index and author_is_self == false -%},&nbsp;{% endif -%}
           {%- if forloop.first == false and forloop.index < forloop.length and author_is_self -%},&nbsp;{% endif -%}
           {%- if forloop.index == second_last_index and author_is_self and author_array_limit == author_array_size %}&nbsp;and&nbsp;{% endif -%}
