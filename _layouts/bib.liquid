@@ -57,12 +57,15 @@
         {% assign author_array_limit = site.max_author_limit %}
       {% endif %}
 
+      {% assign author_appeared = false %}
+
       {%- for author in entry.author_array limit: author_array_limit -%}
         {% assign author_is_self = false %}
         {%- assign author_last_name = author.last | remove: '¶' | remove: '&' | remove: '*' | remove: '†' | remove: '^' -%}
         {% if site.scholar.last_name contains author_last_name %}
           {% if site.scholar.first_name contains author.first %}
             {% assign author_is_self = true %}
+            {% assign author_appeared = true %}
           {% endif %}
         {%- endif -%}
         {% assign coauthor_url = null %}
@@ -80,8 +83,7 @@
           {%- assign second_last_index = forloop.length | minus: 1 -%}
           {%- if forloop.first %}With&nbsp;{% endif -%}
           {%- if forloop.first == false and forloop.index < second_last_index and author_is_self == false -%},&nbsp;{% endif -%}
-          {%- if forloop.first == false and forloop.index < forloop.length and author_is_self -%},&nbsp;{% endif -%}
-          {%- if forloop.index == second_last_index and author_is_self and author_array_limit == author_array_size %}&nbsp;and&nbsp;{% endif -%}
+          {%- if forloop.index == second_last_index and author_appeared == false and author_is_self == false and author_array_limit == author_array_size %}&nbsp;and&nbsp;{% endif -%}
           {%- if forloop.last and author_is_self == false and author_array_limit == author_array_size %}&nbsp;and&nbsp;{% endif -%}
         {% endif %}
         {%- if author_is_self == false -%}
