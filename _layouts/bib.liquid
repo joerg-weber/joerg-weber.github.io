@@ -77,9 +77,11 @@
         {%- endif -%}
 
         {%- if forloop.length > 1 -%}
-          {% if forloop.first %} With {% endif %}
-          {% if forloop.first == false and forloop.last == false %},&nbsp;{% endif %}
-          {%- if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
+          {% if forloop.first %}With&nbsp;{% endif %}
+          {%- if forloop.first == false and forloop.index < forloop.length - 1 and author_is_self == false -%},&nbsp;{% endif -%}
+          {%- if forloop.first == false and forloop.index < forloop.length and author_is_self -%},&nbsp;{% endif -%}
+          {%- if forloop.index == forloop.length - 1 and author_is_self and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
+          {%- if forloop.last and author_is_self == false and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
         {% endif %}
         {%- if author_is_self == false -%}
           {%- if coauthor_url -%}
