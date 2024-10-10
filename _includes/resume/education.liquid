@@ -5,10 +5,16 @@
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px">
           {% if content.startDate and content.startDate != '' %}
-            {% assign startYear = content.startDate | split: '-' | slice: 0 %}
-            {% assign startMonth = content.startDate | split: '-' | slice: 1 | join: '/' | default: '' %}
-            {% assign endYear = content.endDate | split: '-' | slice: 0 %}
-            {% assign endMonth = content.endDate | split: '-' | slice: 1 | join: '/' | default: '' %}
+            {% assign startYear = content.startDate | split: '-' | slice: 0, 1 %}
+            {% assign startMonth = content.startDate | split: '-' | slice: 1, 1 | default: '' %}
+            {% if startMonth != '' %}
+              {% assign startMonth = startMonth | append: '/' %}
+            {% endif %}
+            {% assign endYear = content.endDate | split: '-' | slice: 0, 1 %}
+            {% assign endMonth = content.endDate | split: '-' | slice: 1, 1 | default: '' %}
+            {% if endMonth != '' %}
+              {% assign endMonth = endMonth | append: '/' %}
+            {% endif %}
             {% assign date = startMonth | append: startYear %}
             {% assign date = date | append: '&mdash;' %}
             {% assign date = date | append: endMonth %}
