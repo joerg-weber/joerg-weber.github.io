@@ -122,6 +122,11 @@
       "icon": "fa-solid fa-tag"
     },
     {
+      "name": "u:cris",
+      "url": "https://ucrisportal.univie.ac.at/en/persons/j%C3%B6rg-weber",
+      "icon": "fa-solid fa-tag"
+    },
+    {
       "name": "Scopus",
       "url": "https://www.scopus.com/authid/detail.uri?authorId=57203985028",
       "icon": "ai ai-scopus"
