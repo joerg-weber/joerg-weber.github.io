@@ -13,9 +13,16 @@
   "work": [
     {
       "name": "Faculty of Mathematics, University of Vienna",
+      "position": "Principal Investigator of FWF ESPRIT grant",
+      "url": "https://mathematik.univie.ac.at/en/",
+      "startDate": "2025-01-01"
+    },
+    {
+      "name": "Faculty of Mathematics, University of Vienna",
       "position": "Moritz Schlick postdoctoral fellow",
       "url": "https://mathematik.univie.ac.at/en/",
-      "startDate": "2023-10-15"
+      "startDate": "2023-10-15",
+      "endDate": "2024-12-31"
     },
     {
       "name": "Institut Mittag-Leffler",
@@ -79,6 +86,16 @@
     }
   ],
   "grants": [
+    {
+      "name": "Overhanging water waves: new challenges and perspectives",
+      "url": "https://doi.org/10.55776/ESP8360524",
+      "fund": "FWF ESPRIT",
+      "fundurl": "https://www.fwf.ac.at/en/funding/portfolio/careers/esprit/",
+      "organisation": "Austrian Science Fund (FWF)",
+      "organisationurl": "https://www.fwf.ac.at/en/",
+      "releaseDate": "2025",
+      "value": "340,819 EUR"
+    },
     {
       "name": "Localised pure-gravity water waves",
       "fund": "The Fund of the Walter Gyllenberg Foundation",
