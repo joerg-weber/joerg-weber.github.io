@@ -5,7 +5,7 @@ title: teaching
 description:
 nav: true
 nav_order: 3
-display_categories: [current, past, supervision, upskilling]
+display_categories: [current, past, supervision, training]
 ---
 
 <div class="projects">
