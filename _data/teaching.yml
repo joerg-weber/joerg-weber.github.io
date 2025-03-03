@@ -1,14 +1,22 @@
+- title: "Analysis 2"
+  description: "Seminars | Vienna, 2025S, Bachelor"
+  link: https://ufind.univie.ac.at/en/course.html?lv=250028&semester=2025S
+  category: current
+  number: 15
+  moodle: https://moodle.univie.ac.at/course/view.php?id=446922
+  moodle2: https://moodle.univie.ac.at/course/view.php?id=446923
+
 - title: "Advanced partial differential equations"
   description: "Lectures | Vienna, 2024W, Master"
   link: https://ufind.univie.ac.at/en/course.html?lv=250066&semester=2024W
-  category: current
+  category: past
   number: 14
   moodle: https://moodle.univie.ac.at/course/view.php?id=437273
 
 - title: "Introductory seminar on Advanced partial differential equations"
   description: "Seminars | Vienna, 2024W, Master"
   link: https://ufind.univie.ac.at/en/course.html?lv=250148&semester=2024W
-  category: current
+  category: past
   number: 13
   moodle: https://moodle.univie.ac.at/course/view.php?id=437282
 
