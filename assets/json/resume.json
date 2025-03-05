@@ -87,6 +87,16 @@
   ],
   "grants": [
     {
+      "name": "Waves interacting with the Antarctic Circumpolar Current",
+      "url": "https://www.esi.ac.at/events/e573/",
+      "fund": "Research in Teams",
+      "fundurl": "https://www.esi.ac.at/events/research-in-teams/",
+      "organisation": "Erwin Schrödinger Institute, Vienna",
+      "organisationurl": "https://www.esi.ac.at/",
+      "releaseDate": "2025",
+      "value": "4,800 EUR"
+    },
+    {
       "name": "Overhanging water waves: new challenges and perspectives",
       "url": "https://doi.org/10.55776/ESP8360524",
       "fund": "FWF ESPRIT",
