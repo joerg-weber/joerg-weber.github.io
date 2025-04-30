@@ -1,10 +1,14 @@
-"wahlen":
-  - firstname: ["Erik"]
-    url: https://portal.research.lu.se/en/persons/erik-wahlen
-
 "bartsch":
   - firstname: ["Jan"]
-    url: https://www.mathematik.uni-konstanz.de/en/volkwein/members/research-group/post-docs/dr-jan-bartsch/
+    url: https://www.mathematik.uni-wuerzburg.de/en/institute/service-centre/bartsch-jan-dr/
+
+"erhardt":
+  - firstname: ["André H."]
+    url: https://sites.google.com/site/andreerhardthomepage/home
+
+"gunther":
+  - firstname: ["Sebastian"]
+    url: https://www.diffgleichg.uni-bayreuth.de/en/team/Former-Members/sebastian-guenther/
 
 "knopf":
   - firstname: ["Patrik"]
@@ -14,38 +18,42 @@
   - firstname: ["Jacob"]
     url: https://www.mathematik.uni-wuerzburg.de/en/scientificcomputing/team/koerner-jacob/
 
-"rein":
-  - firstname: ["Gerhard"]
-    url: https://www.diffgleichg.uni-bayreuth.de/en/team/prof-rein/
-
-"erhardt":
-  - firstname: ["André H."]
-    url: https://sites.google.com/site/andreerhardthomepage/home
+"lebeda":
+  - firstname: ["Timo"]
+    url: https://www.tp4.uni-bayreuth.de/en/team/
 
 "lokharu":
   - firstname: ["Evgeniy"]
     url: https://portal.research.lu.se/en/persons/evgeniy-lokharu
 
-"scheurer":
-  - firstname: ["Stefania"]
-    url: https://www.iws.uni-stuttgart.de/en/institute/team/Scheurer/
-
 "otsetova":
   - firstname: ["Anna-Mariya"]
     url: https://research.aalto.fi/en/persons/anna-mariya-otsetova
-
-"straub":
-  - firstname: ["Christopher"]
-    url: https://www.diffgleichg.uni-bayreuth.de/en/team/christopher-straub/
-
-"gunther":
-  - firstname: ["Sebastian"]
-    url: https://www.diffgleichg.uni-bayreuth.de/en/team/Former-Members/sebastian-guenther/
 
 "potzl":
   - firstname: ["Bastian"]
     url: https://num.math.uni-bayreuth.de/en/team/emer-former/bastian-poetzl/
 
-"lebeda":
-  - firstname: ["Timo"]
-    url: https://www.tp4.uni-bayreuth.de/en/team/
+"rein":
+  - firstname: ["Gerhard"]
+    url: https://www.diffgleichg.uni-bayreuth.de/en/team/prof-rein/
+
+"scheurer":
+  - firstname: ["Stefania"]
+    url: https://www.iws.uni-stuttgart.de/en/institute/team/Scheurer/
+
+"seth":
+  - firstname: ["Douglas S."]
+    url: https://www.ntnu.edu/employees/douglas.s.seth
+
+"straub":
+  - firstname: ["Christopher"]
+    url: https://christopher-straub.com/
+
+"varholm":
+  - firstname: ["Kristoffer"]
+    url: https://www.mathematics.pitt.edu/people/kristoffer-varholm
+
+"wahlen":
+  - firstname: ["Erik"]
+    url: https://portal.research.lu.se/en/persons/erik-wahlen
