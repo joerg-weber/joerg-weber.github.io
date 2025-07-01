@@ -11,7 +11,7 @@
               <tr>
                 <td>
                   {% if content.endDate %}
-                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">{{ date }}&mdash;{{ enddate }}</span>
+                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">{{- date }}&mdash;{{ enddate -}}</span>
                   {% else %}
                     <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">{{ date }}</span>
                   {% endif %}
