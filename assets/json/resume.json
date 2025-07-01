@@ -150,6 +150,11 @@
       "icon": "fa-solid fa-tag"
     },
     {
+      "name": "Web of Science",
+      "url": "https://www.webofscience.com/wos/author/record/JXX-0721-2024",
+      "icon": "ai ai-clarivate"
+    },
+    {
       "name": "u:cris",
       "url": "https://ucrisportal.univie.ac.at/en/persons/j%C3%B6rg-weber",
       "icon": "fa-solid fa-tag"
@@ -178,11 +183,6 @@
       "name": "Google Scholar",
       "url": "https://scholar.google.com/citations?user=Y2TLjRMAAAAJ",
       "icon": "ai ai-google-scholar"
-    },
-    {
-      "name": "Web of Science",
-      "url": "https://www.webofscience.com/wos/author/record/JXX-0721-2024",
-      "icon": "ai ai-clarivate"
     },
     {
       "name": "arXiv",
