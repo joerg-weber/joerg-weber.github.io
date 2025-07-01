@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications in reverse chronological order. Preprint versions of all publications can be found on my <a href="https://arxiv.org/a/weber_j_1.html">arXiv page</a>.
+description: Publications in reverse chronological order. Preprint versions can be found on my [arXiv page](https://arxiv.org/a/weber_j_1.html).
 nav: true
 nav_order: 1
 ---
@@ -10,7 +10,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 
 <p> 
-    Publications in reverse chronological order. Preprint versions of all publications can be found on my <a href="https://arxiv.org/a/weber_j_1.html">arXiv page</a>.
+    Publications in reverse chronological order. Preprint versions can be found on my <a href="https://arxiv.org/a/weber_j_1.html">arXiv page</a>.
 </p>
 
 <div class="publications">
