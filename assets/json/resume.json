@@ -119,7 +119,8 @@
     {
       "name": "Various travel fundings",
       "fund": "Workshop on spatial dynamics and related approaches, University of Stuttgart; When Kinetic Theory meets Fluid Mechanics, ETH Zürich; Conference on Mathematics of Wave Phenomena, Karlsruhe Institute of Technology",
-      "releaseDate": "2022"
+      "releaseDate": "2022",
+      "value": "ca. 2,000 EUR"
     }
   ],
   "awards": [
@@ -127,7 +128,8 @@
       "title": "Junior fellowship",
       "date": "2023",
       "awarder": "Institut Mittag-Leffler",
-      "awarderurl": "https://www.mittag-leffler.se"
+      "awarderurl": "https://www.mittag-leffler.se",
+      "value": "ca. 40,000 SEK"
     },
     {
       "title": "Seal of Excellence",
