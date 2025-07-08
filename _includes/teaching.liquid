@@ -5,8 +5,10 @@
         {% if teaching.category == 'supervision' %}
           <a href="{{ teaching.link }}">
             <h2 class="card-title">
-              {{ teaching.title -}}
-              <br>
+              {% comment %}
+                {{ teaching.title -}}
+                <br>
+              {% endcomment %}
               <i
                 ><small
                   ><small>{{ teaching.thesistitle }}</small></small
