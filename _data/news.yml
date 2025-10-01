@@ -1,31 +1,39 @@
 - date: 2025-10-01
   inline: true
-  content: My preprint <a href="https://arxiv.org/abs/2509.26125">On the propagation of mountain waves: linear theory</a> with A. Constantin is now available.
+  content: >-
+    My preprint <a href="https://arxiv.org/abs/2509.26125">On the propagation of mountain waves: linear theory</a> with A. Constantin is now available.
 
 - date: 2025-04-28
   inline: true
-  content: My preprint <a href="https://arxiv.org/abs/2504.20221">Rigidity of symmetric doubly-periodic water waves near shear flows</a> with D. S. Seth, K. Varholm and E. Wahlén is now available.
+  content: >-
+    My preprint <a href="https://arxiv.org/abs/2504.20221">Rigidity of symmetric doubly-periodic water waves near shear flows</a> with D. S. Seth, K. Varholm and E. Wahlén is now available.
 
 - date: 2025-02-25
   inline: true
-  content: My preprint <a href="https://arxiv.org/abs/2502.18181">An improved upper bound for the Froude number of irrotational solitary water waves</a> with E. Lokharu is now available.
+  content: >-
+    My preprint <a href="https://arxiv.org/abs/2502.18181">An improved upper bound for the Froude number of irrotational solitary water waves</a> with E. Lokharu is now available.
 
 - date: 2025-01-01
   inline: true
-  content: I have started my FWF ESPRIT grant <a href="https://doi.org/10.55776/ESP8360524">Overhanging water waves: new challenges and perspectives</a>.
+  content: >-
+    I have started my FWF ESPRIT grant <a href="https://doi.org/10.55776/ESP8360524">Overhanging water waves: new challenges and perspectives</a>.
 
 - date: 2024-08-16
   inline: true
-  content: My paper <a href="https://doi.org/10.1016/j.jde.2024.08.005">Axisymmetric capillary water waves with vorticity and swirl connecting to static unduloid configurations</a> with A.-M. Otsetova and E. Wahlén has been published.
+  content: >-
+    My paper <a href="https://doi.org/10.1016/j.jde.2024.08.005">Axisymmetric capillary water waves with vorticity and swirl connecting to static unduloid configurations</a> with A.-M. Otsetova and E. Wahlén has been published.
 
 - date: 2024-07-30
   inline: true
-  content: My paper <a href="https://doi.org/10.1215/00127094-2023-0054">Large-amplitude steady gravity water waves with general vorticity and critical layers</a> with E. Wahlén has been published.
+  content: >-
+    My paper <a href="https://doi.org/10.1215/00127094-2023-0054">Large-amplitude steady gravity water waves with general vorticity and critical layers</a> with E. Wahlén has been published.
 
 - date: 2024-07-10
   inline: true
-  content: My paper <a href="https://doi.org/10.1137/23M1563852">Controlling a Vlasov&mdash;Poisson plasma by a Particle-In-Cell method based on a Monte Carlo framework</a> with J. Bartsch, P. Knopf and S. Scheurer has been published.
+  content: >-
+    My paper <a href="https://doi.org/10.1137/23M1563852">Controlling a Vlasov&mdash;Poisson plasma by a Particle-In-Cell method based on a Monte Carlo framework</a> with J. Bartsch, P. Knopf and S. Scheurer has been published.
 
 - date: 2024-05-26
   inline: true
-  content: This website has been created.
+  content: >-
+    This website has been created.
