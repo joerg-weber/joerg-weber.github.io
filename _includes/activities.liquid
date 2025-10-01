@@ -1,6 +1,6 @@
 <div class="activities">
-  {% if site.activities != blank %}
-    {% assign activities_size = site.activities | size %}
+  {% if site.data.activities != blank %}
+    {% assign activities_size = site.data.activities | size %}
     <div
       class="table-responsive"
       {% if include.limit and site.announcements.scrollable and activities_size > 3 %}
@@ -8,7 +8,7 @@
       {% endif %}
     >
       <table class="table table-sm table-borderless">
-        {% assign activities = site.activities | reverse %}
+        {% assign activities = site.data.activities | sort: "date" | reverse %}
         {% if include.limit and site.announcements.limit %}
           {% assign activities_limit = site.announcements.limit %}
         {% else %}
