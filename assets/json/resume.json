@@ -59,7 +59,7 @@
       "url": "https://www.uni-bayreuth.de/en",
       "supervisor": "Prof. Dr. Gerhard Rein",
       "supervisorurl": "https://www.diffgleichg.uni-bayreuth.de/en/team/prof-rein/",
-      "thesis": "The Relativistic Vlasov&mdash;Maxwell System with External Electromagnetic Fields",
+      "thesis": "The Relativistic Vlasov&ndash;Maxwell System with External Electromagnetic Fields",
       "thesisurl": "https://epub.uni-bayreuth.de/id/eprint/4964/",
       "studyType": "Dr. rer. nat.",
       "startDate": "2017-01-01",
@@ -249,7 +249,7 @@
       "name": "Kinetic theory",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "analysis of Vlasov&mdash;Poisson, Vlasov&mdash;Maxwell",
+        "analysis of Vlasov&ndash;Poisson, Vlasov&ndash;Maxwell",
         "optimal control problems in plasma physics",
         "construction and stability of confined stationary plasmas"
       ]

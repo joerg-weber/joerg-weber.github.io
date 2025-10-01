@@ -40,7 +40,7 @@ My research concerns the analytical study of nonlinear partial differential equa
   </li>
   <li>in kinetic theory
     <ul>
-      <li>analysis of kinetic equations such as Vlasov&mdash;Poisson or Vlasov&mdash;Maxwell,</li>
+      <li>analysis of kinetic equations such as Vlasov&ndash;Poisson or Vlasov&ndash;Maxwell,</li>
       <li>optimal control problems arising in plasma physics,</li>
       <li>construction and stability of confined stationary plasmas.</li>
     </ul>

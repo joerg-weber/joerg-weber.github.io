@@ -7,7 +7,7 @@
           {% if content.startDate and content.startDate != '' %}
             {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | reverse | join: '/' %}
             {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | reverse | join: '/' | default: '' %}
-            {% assign date = startDate | append: '&mdash;' %}
+            {% assign date = startDate | append: '&ndash;' %}
             {% assign date = date | append: endDate %}
           {% else %}
             {% assign date = null %}
