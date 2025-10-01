@@ -8,7 +8,7 @@
       {% endif %}
     >
       <table class="table table-sm table-borderless">
-        {% assign activities = site.data.activities | sort: "date" | reverse %}
+        {% assign activities = site.data.activities | sort: 'date' | reverse %}
         {% if include.limit and site.announcements.limit %}
           {% assign activities_limit = site.announcements.limit %}
         {% else %}

@@ -243,10 +243,7 @@
     {
       "name": "Atmospheric fluid mechanics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "mountain waves",
-        "structures like the polar vortex"
-      ]
+      "keywords": ["mountain waves", "structures like the polar vortex"]
     },
     {
       "name": "Kinetic theory",
