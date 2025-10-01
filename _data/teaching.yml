@@ -1,7 +1,14 @@
+- title: "Fluid Dynamics"
+  description: "Seminar | Vienna, 2025W, Master"
+  link: https://ufind.univie.ac.at/en/course.html?lv=250092&semester=2025W
+  category: current
+  number: 16
+  moodle: https://moodle.univie.ac.at/course/view.php?id=455611
+
 - title: "Analysis 2"
   description: "Seminars | Vienna, 2025S, Bachelor"
   link: https://ufind.univie.ac.at/en/course.html?lv=250028&semester=2025S
-  category: current
+  category: past
   number: 15
   moodle: https://moodle.univie.ac.at/course/view.php?id=446922
   moodle2: https://moodle.univie.ac.at/course/view.php?id=446923

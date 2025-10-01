@@ -24,12 +24,18 @@ I am a postdoctoral fellow in mathematics at the [University of Vienna](https://
 My research concerns the analytical study of nonlinear partial differential equations, in particular within the scope of fluid mechanics and kinetic theory. My main interests include
 
 <ul>
-  <li>in fluid mechanics
+  <li>in oceanic fluid mechanics
     <ul>
       <li>steady water waves modelled by the full Euler equations,</li>
-      <li>two-dimensional waves with general vorticity,</li>
-      <li>amplitude bounds for water waves,</li>
-      <li>axisymmetric waves with vorticity and swirl;</li>
+      <li>two-dimensional and axisymmetric waves with general vorticity,</li>
+      <li>structural properties of water waves,</li>
+      <li>geophysical water waves;</li>
+    </ul>
+  </li>
+  <li>in atmospheric fluid mechanics
+    <ul>
+      <li>mountain waves,</li>
+      <li>structures like the polar vortex;</li>
     </ul>
   </li>
   <li>in kinetic theory

@@ -2,6 +2,10 @@
   - firstname: ["Jan"]
     url: https://www.mathematik.uni-wuerzburg.de/en/institute/service-centre/bartsch-jan-dr/
 
+"constantin":
+  - firstname: ["Adrian"]
+    url: https://mathematik.univie.ac.at/en/about-us/staff/?api_pkey=36146&no_cache=1&api_task=member_details&api_lang=en
+
 "erhardt":
   - firstname: ["André H."]
     url: https://sites.google.com/site/andreerhardthomepage/home

@@ -87,6 +87,14 @@
   ],
   "grants": [
     {
+      "name": "Research visit at École Polytechnique in Paris",
+      "url": "https://www.fondation-hadamard.fr/en/our-programs/thematic-programs/visiting-researchers/",
+      "organisation": "Fondation Mathématique Jacques Hadamard",
+      "organisationurl": "https://www.fondation-hadamard.fr/en/",
+      "releaseDate": "2026",
+      "value": "2,800 EUR"
+    },
+    {
       "name": "Waves interacting with the Antarctic Circumpolar Current",
       "url": "https://www.esi.ac.at/events/e573/",
       "fund": "Research in Teams",
@@ -223,13 +231,21 @@
   ],
   "interests": [
     {
-      "name": "Fluid mechanics",
+      "name": "Oceanic fluid mechanics",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "steady water waves modelled by full Euler equations",
-        "two-dimensional waves with general vorticity",
-        "amplitude bounds for water waves",
-        "axisymmetric waves with vorticity and swirl"
+        "two-dimensional and axisymmetric waves with general vorticity",
+        "structural properties of water waves",
+        "geophysical water waves"
+      ]
+    },
+    {
+      "name": "Atmospheric fluid mechanics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "mountain waves",
+        "structures like the polar vortex"
       ]
     },
     {
