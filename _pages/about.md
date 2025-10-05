@@ -47,4 +47,4 @@ My research concerns the analytical study of nonlinear partial differential equa
   </li>
 </ul>
 
-I am co-organising the [Partial Differential Equations and Mathematical Physics Seminar](https://mathematik.univie.ac.at/en/research/seminars/pde-mp-seminar/) at the University of Vienna.
+I am co-organising the [Partial Differential Equations and Mathematical Physics Seminar](https://mathematik.univie.ac.at/en/research/seminars/partial-differential-equations-and-mathematical-physics-seminar/) at the University of Vienna.
