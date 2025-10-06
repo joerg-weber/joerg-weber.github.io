@@ -765,6 +765,11 @@ footer.sticky-bottom {
         }
       }
 
+      .container {
+        display: flex;
+        align-items: center;
+      }
+
       .hidden {
         font-size: 0.875rem;
         max-height: 0px;
