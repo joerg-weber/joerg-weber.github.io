@@ -751,7 +751,8 @@ footer.sticky-bottom {
       }
 
       .badges {
-        padding-bottom: 0.5rem;
+        padding-top: 0.25rem;
+        padding-bottom: 0.25rem;
         span {
           display: inline-block;
           color: $black-color;
@@ -768,6 +769,7 @@ footer.sticky-bottom {
       .container {
         display: flex;
         align-items: center;
+        gap: 1rem;
       }
 
       .hidden {
