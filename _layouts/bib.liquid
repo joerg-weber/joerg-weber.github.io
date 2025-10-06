@@ -228,6 +228,9 @@
       {% if entry.mathscinet %}
         <a href="https://mathscinet.ams.org/mathscinet/article?mr={{ entry.mathscinet }}" class="btn btn-sm z-depth-0" role="button">MathSciNet</a>
       {% endif %}
+      {% if entry.zbmath %}
+        <a href="https://zbmath.org/{{ entry.zbmath }}" class="btn btn-sm z-depth-0" role="button">zbMATH</a>
+      {% endif %}
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
           <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
