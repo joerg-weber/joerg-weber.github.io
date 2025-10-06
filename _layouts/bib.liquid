@@ -216,7 +216,7 @@
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
       {% if entry.doi %}
-        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">Link</a>
+        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
       {% if entry.html %}
         {% if entry.html contains '://' %}
@@ -226,7 +226,7 @@
         {% endif %}
       {% endif %}
       {% if entry.mathscinet %}
-        <a href="https://mathscinet.ams.org/mathscinet/article?mr={{ entry.mathscinet }}" class="btn btn-sm z-depth-0" role="button">MathSciNet</a>
+        <a href="https://mathscinet.ams.org/mathscinet/article?mr={{ entry.mathscinet }}" class="btn btn-sm z-depth-0" role="button">MR</a>
       {% endif %}
       {% if entry.zbmath %}
         <a href="https://zbmath.org/{{ entry.zbmath }}" class="btn btn-sm z-depth-0" role="button">zbMATH</a>
