@@ -769,6 +769,10 @@ footer.sticky-bottom {
         gap: 0.5rem;
       }
 
+      .container > .links:first-child {
+        padding-left: 0rem;
+      }
+
       .hidden {
         font-size: 0.875rem;
         max-height: 0px;
