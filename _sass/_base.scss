@@ -731,8 +731,8 @@ footer.sticky-bottom {
           display: inline-block;
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
+          padding-left: 0rem;
+          padding-right: 2rem;
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
@@ -748,8 +748,8 @@ footer.sticky-bottom {
       }
 
       .badges {
-        padding-top: 0.2rem;
-        padding-bottom: 0.3rem;
+        padding-top: 0.225rem;
+        padding-bottom: 0.275rem;
         span {
           display: inline-block;
           color: $black-color;
@@ -766,11 +766,8 @@ footer.sticky-bottom {
       .container {
         display: flex;
         justify-content: flex-start;
-        gap: 0.5rem;
-      }
-
-      .container > .links:first-child {
-        padding-left: 0rem;
+        align-items: center;
+        gap: 0rem;
       }
 
       .hidden {
