@@ -145,3 +145,47 @@ A variety of beautiful theme colors have been selected for you to choose from. T
 ## Adding social media information
 
 You can add your social media links by adding the specified information at the `Social integration` section in the [\_config.yml](_config.yml) file. This information will appear at the bottom of the `About` page.
+
+## Setting up a Personal Access Token (PAT) for Google Scholar Citation Updates
+
+> [!TIP]
+> After setting up al-folio you may want to run `python3 bin/update_scholar_citations.py` to fill the `_data/citations.yml` file with your Google Scholar citation counts.
+
+This project includes an automated workflow to update the citation counts for your publications using Google Scholar.
+The workflow commits changes to `_data/citations.yml` directly to the `main` branch.
+By default, the `GITHUB_TOKEN` will be used to commit the changes.
+However, this token does not have permission to trigger subsequent workflows, such as the site rebuild workflow.
+In order to deploy the changes from `main`, you can manually trigger the `deploy` workflow.
+
+> [!TIP]
+> To ensure that these commits can trigger further GitHub Actions workflows (such as site rebuilds), you can use a Personal Access Token (PAT) instead of the default GitHub Actions token.
+> If you have set up a PAT, citation updates will trigger further workflows (such as site rebuilds) after committing changes. In order to run the action with a PAT, you need to uncomment the following lines from the workflow file (`update-citations.yml`):
+>
+> ```yaml
+> with:
+>   token: ${{ secrets.PAT }}
+> ```
+
+### Why is a PAT required?
+
+GitHub restricts the default `GITHUB_TOKEN` from triggering other workflows when a commit is made from within a workflow. Using a PAT overcomes this limitation and allows for full automation.
+
+### How to set up the PAT
+
+1. **Create a Personal Access Token**
+
+   - Go to [GitHub Settings > Developer settings > Personal access tokens](https://github.com/settings/tokens).
+   - Click "Generate new token" (classic or fine-grained).
+   - Grant at least the following permissions:
+     - `repo` (for classic tokens if repo is private), `public_repo` (for classic tokens if repo is public) or `contents: read/write` (for fine-grained tokens)
+   - Save the token somewhere safe.
+
+2. **Add the PAT as a repository secret**
+
+   - Go to your repository on GitHub.
+   - Navigate to `Settings` > `Secrets and variables` > `Actions` > `New repository secret`.
+   - Name the secret `PAT` (must match the name used in the workflow).
+   - Paste your PAT and save.
+
+3. **Workflow usage**
+   The workflow `.github/workflows/update-citations.yml` uses this PAT to commit updates to `_data/citations.yml`.

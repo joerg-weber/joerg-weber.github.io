@@ -1,0 +1,67 @@
+metadata:
+  last_updated: '2025-11-25'
+papers:
+  Y2TLjRMAAAAJ:2osOgNQ5qMEC:
+    citations: 5
+    title: Bifurcation analysis for axisymmetric capillary water waves with vorticity and swirl
+    year: '2022'
+  Y2TLjRMAAAAJ:5nxA0vEk-isC:
+    citations: 0
+    title: 'On the propagation of mountain waves: linear theory'
+    year: '2025'
+  Y2TLjRMAAAAJ:9yKSN-GCB0IC:
+    citations: 7
+    title: Optimal control of the two-dimensional Vlasov-Maxwell system
+    year: '2021'
+  Y2TLjRMAAAAJ:IjCSPb-OGe4C:
+    citations: 13
+    title: Large-amplitude steady gravity water waves with general vorticity and critical layers
+    year: '2024'
+  Y2TLjRMAAAAJ:Tyk-4Ss8FVUC:
+    citations: 7
+    title: Global bifurcation of capillary-gravity water waves with overhanging profiles and arbitrary vorticity
+    year: '2023'
+  Y2TLjRMAAAAJ:W7OEmFMy1HYC:
+    citations: 10
+    title: "Controlling a Vlasov\u2013Poisson Plasma by a Particle-in-Cell Method Based on a Monte Carlo Framework"
+    year: '2024'
+  Y2TLjRMAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: Rigidity of symmetric doubly-periodic water waves near shear flows
+    year: '2025'
+  Y2TLjRMAAAAJ:Y0pCki6q_DkC:
+    citations: 20
+    title: "Optimal control of a Vlasov\u2013Poisson plasma by fixed magnetic field coils"
+    year: '2020'
+  Y2TLjRMAAAAJ:YsMSGLbcyi4C:
+    citations: 3
+    title: "On the two and one-half dimensional Vlasov\u2013Poisson system with an external magnetic field: Global well-posedness and stability of confined steady states"
+    year: '2022'
+  Y2TLjRMAAAAJ:d1gkVwhDpl0C:
+    citations: 5
+    title: On the amplitude of steady water waves with favorable constant vorticity
+    year: '2023'
+  Y2TLjRMAAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: An improved upper bound for the Froude number of irrotational solitary water waves
+    year: '2025'
+  Y2TLjRMAAAAJ:hqOjcs7Dif8C:
+    citations: 5
+    title: Confined Steady States of a Relativistic Vlasov-Maxwell Plasma in a Long Cylinder
+    year: '2020'
+  Y2TLjRMAAAAJ:qjMakFHDy7sC:
+    citations: 17
+    title: "A numerical stability analysis for the Einstein\u2013Vlasov system"
+    year: '2020'
+  Y2TLjRMAAAAJ:u-x6o8ySG0sC:
+    citations: 3
+    title: Hot Plasma in a Container---an Optimal Control Problem
+    year: '2020'
+  Y2TLjRMAAAAJ:u5HHmVD_uO8C:
+    citations: 1
+    title: Axisymmetric capillary water waves with vorticity and swirl connecting to static unduloid configurations
+    year: '2024'
+  Y2TLjRMAAAAJ:zYLM7Y9cAGgC:
+    citations: 1
+    title: "Weak solutions of the relativistic Vlasov\u2013Maxwell system with external currents"
+    year: '2021'
