@@ -60,8 +60,6 @@ on:
       - "!INSTALL.md"
       - "!README.md"
   workflow_dispatch:
-  schedule:
-    - cron: "0 12 * * 1"
 
 permissions:
   contents: write
