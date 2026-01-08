@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-01'
+  last_updated: '2026-01-08'
 papers:
   Y2TLjRMAAAAJ:2osOgNQ5qMEC:
-    citations: 5
+    citations: 6
     title: Bifurcation analysis for axisymmetric capillary water waves with vorticity and swirl
     year: '2022'
   Y2TLjRMAAAAJ:5nxA0vEk-isC:
@@ -14,11 +14,11 @@ papers:
     title: Optimal control of the two-dimensional Vlasov-Maxwell system
     year: '2021'
   Y2TLjRMAAAAJ:IjCSPb-OGe4C:
-    citations: 14
+    citations: 15
     title: Large-amplitude steady gravity water waves with general vorticity and critical layers
     year: '2024'
   Y2TLjRMAAAAJ:Tyk-4Ss8FVUC:
-    citations: 8
+    citations: 9
     title: Global bifurcation of capillary-gravity water waves with overhanging profiles and arbitrary vorticity
     year: '2023'
   Y2TLjRMAAAAJ:W7OEmFMy1HYC:
