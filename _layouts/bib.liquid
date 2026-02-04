@@ -195,8 +195,13 @@
     <div class="periodical">
       {{ periodical | strip }}
     </div>
+    {% if entry.accepted %}
+      {% capture entryaccepted %}{{ "Accepted for publication in " }}<em>{{entry.accepted}}</em>{% endcapture %}
+    {% else %}
+      {% capture entryaccepted %}{% endcapture %}
+    {% endif %}
     <div class="periodical">
-      {{ entry.note | strip }}
+      {{ entryaccepted | strip }}
     </div>
 
     <!-- Links/Buttons -->

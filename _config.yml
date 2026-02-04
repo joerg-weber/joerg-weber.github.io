@@ -334,6 +334,7 @@ filtered_bibtex_keywords:
   [
     abbr,
     abstract,
+    accepted,
     additional_info,
     altmetric,
     arxiv,
