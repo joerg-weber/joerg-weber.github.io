@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-02-07'
 papers:
   Y2TLjRMAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -52,7 +52,7 @@ papers:
   Y2TLjRMAAAAJ:qjMakFHDy7sC:
     citations: 18
     title: "A numerical stability analysis for the Einstein\u2013Vlasov system"
-    year: '2020'
+    year: '2021'
   Y2TLjRMAAAAJ:u-x6o8ySG0sC:
     citations: 3
     title: Hot Plasma in a Container---an Optimal Control Problem
