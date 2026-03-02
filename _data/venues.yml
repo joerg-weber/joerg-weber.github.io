@@ -2,54 +2,58 @@
   url: https://link.springer.com/journal/245
   color: "#503404"
 
-"ESAIM: COCV":
-  url: https://www.esaim-cocv.org/
-  color: "#f82434"
-
-"MMAS":
-  url: https://onlinelibrary.wiley.com/journal/10991476
-  color: "#f88424"
-
-"SIMA":
-  url: https://epubs.siam.org/journal/sjmaah
-  color: "#403c5c"
-
-"KRM":
-  url: https://www.aimsciences.org/krm
-  color: "#100c0c"
-
-"CQG":
-  url: https://iopscience.iop.org/journal/0264-9381
-  color: "#90ccbc"
-
-"NONRWA":
-  url: https://www.sciencedirect.com/journal/nonlinear-analysis-real-world-applications
-  color: "#bac3c3"
-
-"IMRN":
-  url: https://academic.oup.com/imrn
-  color: "#188474"
-
-"SAM":
-  url: https://onlinelibrary.wiley.com/journal/14679590
-  color: "#18246c"
-
-"JMFM":
-  url: https://link.springer.com/journal/21
-  color: "#080c64"
-
-"SICON":
-  url: https://epubs.siam.org/journal/sjcodc
-  color: "#82401d"
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b81c1c"
 
 "DMJ":
   url: https://projecteuclid.org/journals/duke-mathematical-journal
   color: "#0b85c6"
 
+"ESAIM: COCV":
+  url: https://www.esaim-cocv.org/
+  color: "#f82434"
+
+"CQG":
+  url: https://iopscience.iop.org/journal/0264-9381
+  color: "#90ccbc"
+
+"IMRN":
+  url: https://academic.oup.com/imrn
+  color: "#188474"
+
 "JDE":
   url: https://www.sciencedirect.com/journal/journal-of-differential-equations
   color: "#90742c"
 
-"arXiv":
-  url: https://arxiv.org/
-  color: "#b81c1c"
+"JFM":
+  url: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics
+  color: "#77b1e1"
+
+"JMFM":
+  url: https://link.springer.com/journal/21
+  color: "#080c64"
+
+"KRM":
+  url: https://www.aimsciences.org/krm
+  color: "#100c0c"
+
+"MMAS":
+  url: https://onlinelibrary.wiley.com/journal/10991476
+  color: "#f88424"
+
+"NONRWA":
+  url: https://www.sciencedirect.com/journal/nonlinear-analysis-real-world-applications
+  color: "#bac3c3"
+
+"SAM":
+  url: https://onlinelibrary.wiley.com/journal/14679590
+  color: "#18246c"
+
+"SICON":
+  url: https://epubs.siam.org/journal/sjcodc
+  color: "#82401d"
+
+"SIMA":
+  url: https://epubs.siam.org/journal/sjmaah
+  color: "#403c5c"
