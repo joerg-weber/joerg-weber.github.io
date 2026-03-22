@@ -181,7 +181,7 @@
       {% capture entryeid %}{% endcapture %}
     {% endif %}
     {% if entry.note %}
-      {% capture entrynote %}{{ " (" }}{{entry.eid}}{{ ")" }}{% endcapture %}
+      {% capture entrynote %}{{ " (" }}{{entry.note}}{{ ")" }}{% endcapture %}
     {% else %}
       {% capture entrynote %}{% endcapture %}
     {% endif %}
