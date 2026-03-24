@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-17'
+  last_updated: '2026-03-24'
 papers:
   Y2TLjRMAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -22,7 +22,7 @@ papers:
     title: Global bifurcation of capillary-gravity water waves with overhanging profiles and arbitrary vorticity
     year: '2023'
   Y2TLjRMAAAAJ:W7OEmFMy1HYC:
-    citations: 10
+    citations: 11
     title: "Controlling a Vlasov\u2013Poisson Plasma by a Particle-in-Cell Method Based on a Monte Carlo Framework"
     year: '2024'
   Y2TLjRMAAAAJ:WF5omc3nYNoC:
@@ -30,7 +30,7 @@ papers:
     title: Rigidity of symmetric doubly-periodic water waves near shear flows
     year: '2025'
   Y2TLjRMAAAAJ:Y0pCki6q_DkC:
-    citations: 20
+    citations: 21
     title: "Optimal control of a Vlasov\u2013Poisson plasma by fixed magnetic field coils"
     year: '2020'
   Y2TLjRMAAAAJ:YsMSGLbcyi4C:
