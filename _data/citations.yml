@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-24'
+  last_updated: '2026-04-04'
 papers:
   Y2TLjRMAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -9,26 +9,26 @@ papers:
     citations: 0
     title: 'On the propagation of mountain waves: linear theory'
     year: '2025'
+  Y2TLjRMAAAAJ:8k81kl-MbHgC:
+    citations: 0
+    title: Rigidity of symmetric doubly-periodic water waves near shear flows
+    year: '2026'
   Y2TLjRMAAAAJ:9yKSN-GCB0IC:
     citations: 7
     title: Optimal control of the two-dimensional Vlasov-Maxwell system
     year: '2021'
   Y2TLjRMAAAAJ:IjCSPb-OGe4C:
-    citations: 19
+    citations: 21
     title: Large-amplitude steady gravity water waves with general vorticity and critical layers
     year: '2024'
   Y2TLjRMAAAAJ:Tyk-4Ss8FVUC:
-    citations: 10
+    citations: 11
     title: Global bifurcation of capillary-gravity water waves with overhanging profiles and arbitrary vorticity
     year: '2023'
   Y2TLjRMAAAAJ:W7OEmFMy1HYC:
     citations: 11
     title: "Controlling a Vlasov\u2013Poisson Plasma by a Particle-in-Cell Method Based on a Monte Carlo Framework"
     year: '2024'
-  Y2TLjRMAAAAJ:WF5omc3nYNoC:
-    citations: 0
-    title: Rigidity of symmetric doubly-periodic water waves near shear flows
-    year: '2025'
   Y2TLjRMAAAAJ:Y0pCki6q_DkC:
     citations: 21
     title: "Optimal control of a Vlasov\u2013Poisson plasma by fixed magnetic field coils"
