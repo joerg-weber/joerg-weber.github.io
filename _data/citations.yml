@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-04'
+  last_updated: '2026-04-11'
 papers:
   Y2TLjRMAAAAJ:2osOgNQ5qMEC:
     citations: 6
     title: Bifurcation analysis for axisymmetric capillary water waves with vorticity and swirl
     year: '2022'
   Y2TLjRMAAAAJ:5nxA0vEk-isC:
-    citations: 0
+    citations: 1
     title: 'On the propagation of mountain waves: linear theory'
     year: '2025'
   Y2TLjRMAAAAJ:8k81kl-MbHgC:
@@ -21,6 +21,10 @@ papers:
     citations: 21
     title: Large-amplitude steady gravity water waves with general vorticity and critical layers
     year: '2024'
+  Y2TLjRMAAAAJ:MXK_kJrjxJIC:
+    citations: 5
+    title: Confined Steady States of a Relativistic Vlasov-Maxwell Plasma in a Long Cylinder
+    year: '2020'
   Y2TLjRMAAAAJ:Tyk-4Ss8FVUC:
     citations: 11
     title: Global bifurcation of capillary-gravity water waves with overhanging profiles and arbitrary vorticity
@@ -45,10 +49,6 @@ papers:
     citations: 0
     title: An improved upper bound for the Froude number of irrotational solitary water waves
     year: '2026'
-  Y2TLjRMAAAAJ:MXK_kJrjxJIC:
-    citations: 5
-    title: Confined Steady States of a Relativistic Vlasov-Maxwell Plasma in a Long Cylinder
-    year: '2020'
   Y2TLjRMAAAAJ:qjMakFHDy7sC:
     citations: 19
     title: "A numerical stability analysis for the Einstein\u2013Vlasov system"
