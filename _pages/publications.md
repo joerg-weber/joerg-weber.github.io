@@ -13,8 +13,6 @@ nav_order: 1
     Publications in reverse chronological order. Preprint versions can be found on <a href="https://arxiv.org/a/weber_j_1.html">my arXiv page</a>.
 </p>
 
-{% include bib_search.liquid %}
-
 <div class="publications">
 
 {% bibliography %}
