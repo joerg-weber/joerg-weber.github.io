@@ -1,14 +1,10 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-04-28'
 papers:
   Y2TLjRMAAAAJ:2osOgNQ5qMEC:
     citations: 6
     title: Bifurcation analysis for axisymmetric capillary water waves with vorticity and swirl
     year: '2022'
-  Y2TLjRMAAAAJ:kNdYIx-mwKoC:
-    citations: 2
-    title: 'On the propagation of mountain waves: linear theory'
-    year: '2026'
   Y2TLjRMAAAAJ:8k81kl-MbHgC:
     citations: 0
     title: Rigidity of symmetric doubly-periodic water waves near shear flows
@@ -34,7 +30,7 @@ papers:
     title: "Controlling a Vlasov\u2013Poisson Plasma by a Particle-in-Cell Method Based on a Monte Carlo Framework"
     year: '2024'
   Y2TLjRMAAAAJ:Y0pCki6q_DkC:
-    citations: 20
+    citations: 21
     title: "Optimal control of a Vlasov\u2013Poisson plasma by fixed magnetic field coils"
     year: '2020'
   Y2TLjRMAAAAJ:YsMSGLbcyi4C:
@@ -48,6 +44,10 @@ papers:
   Y2TLjRMAAAAJ:eQOLeE2rZwMC:
     citations: 0
     title: An improved upper bound for the Froude number of irrotational solitary water waves
+    year: '2026'
+  Y2TLjRMAAAAJ:kNdYIx-mwKoC:
+    citations: 2
+    title: 'On the propagation of mountain waves: linear theory'
     year: '2026'
   Y2TLjRMAAAAJ:qjMakFHDy7sC:
     citations: 19
