@@ -55,6 +55,12 @@
   ],
   "education": [
     {
+      "institution": "University of Vienna",
+      "url": "https://www.univie.ac.at/en/",
+      "studyType": "Habilitation",
+      "endDate": "2026-04-15"
+    },
+    {
       "institution": "University of Bayreuth",
       "url": "https://www.uni-bayreuth.de/en",
       "supervisor": "Prof. Dr. Gerhard Rein",
