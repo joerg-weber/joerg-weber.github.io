@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-19'
+  last_updated: '2026-06-25'
 papers:
   Y2TLjRMAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -34,7 +34,7 @@ papers:
     title: "Optimal control of a Vlasov\u2013Poisson plasma by fixed magnetic field coils"
     year: '2020'
   Y2TLjRMAAAAJ:YsMSGLbcyi4C:
-    citations: 4
+    citations: 5
     title: "On the two and one-half dimensional Vlasov\u2013Poisson system with an external magnetic field: Global well-posedness and stability of confined steady states"
     year: '2022'
   Y2TLjRMAAAAJ:d1gkVwhDpl0C:
