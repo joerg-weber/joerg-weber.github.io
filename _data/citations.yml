@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-04'
 papers:
   Y2TLjRMAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -10,9 +10,9 @@ papers:
     title: Rigidity of symmetric doubly-periodic water waves near shear flows
     year: '2026'
   Y2TLjRMAAAAJ:9yKSN-GCB0IC:
-    citations: 7
-    title: Optimal Control of the Two-Dimensional Vlasov-Maxwell-System
-    year: '2018'
+    citations: 8
+    title: Optimal control of the two-dimensional Vlasov-Maxwell system
+    year: '2021'
   Y2TLjRMAAAAJ:IjCSPb-OGe4C:
     citations: 21
     title: Large-amplitude steady gravity water waves with general vorticity and critical layers
@@ -22,17 +22,17 @@ papers:
     title: Confined Steady States of a Relativistic Vlasov-Maxwell Plasma in a Long Cylinder
     year: '2020'
   Y2TLjRMAAAAJ:Tyk-4Ss8FVUC:
-    citations: 11
+    citations: 12
     title: Global bifurcation of capillary-gravity water waves with overhanging profiles and arbitrary vorticity
-    year: '2021'
-  Y2TLjRMAAAAJ:W7OEmFMy1HYC:
-    citations: 10
-    title: Controlling a Vlasov-Poisson plasma by a particle-in-cell method based on a Monte Carlo framework
     year: '2023'
+  Y2TLjRMAAAAJ:W7OEmFMy1HYC:
+    citations: 12
+    title: Controlling a Vlasov-Poisson plasma by a particle-in-cell method based on a Monte Carlo framework
+    year: '2024'
   Y2TLjRMAAAAJ:Y0pCki6q_DkC:
-    citations: 22
+    citations: 23
     title: Optimal control of a Vlasov-Poisson plasma by fixed magnetic field coils
-    year: '2017'
+    year: '2020'
   Y2TLjRMAAAAJ:YsMSGLbcyi4C:
     citations: 5
     title: "On the two and one-half dimensional Vlasov\u2013Poisson system with an external magnetic field: Global well-posedness and stability of confined steady states"
