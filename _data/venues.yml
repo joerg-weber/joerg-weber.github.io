@@ -65,3 +65,7 @@
 "SIMA":
   url: https://epubs.siam.org/journal/sjmaah
   color: "#403c5c"
+
+"SLSEDP":
+  url: https://proceedings.centre-mersenne.org/item/SLSEDP/
+  color: "#12aeab"
